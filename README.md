@@ -3,7 +3,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>House Price Prediction & City Quality Analysis</title>
 </head>
 <body>
   <h1>House Price Prediction & City Quality Analysis</h1>
