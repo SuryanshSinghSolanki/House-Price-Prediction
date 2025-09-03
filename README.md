@@ -5,7 +5,6 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <h1>House Price Prediction & City Quality Analysis</h1>
 
   <p>
     This project explores <strong>house price prediction</strong> by combining the classic Boston housing dataset with additional <strong>city quality-of-life indices</strong> sourced via web scraping. It demonstrates an end-to-end workflow including data collection, cleaning, feature engineering, model building, and evaluation in Python.
